@@ -4,11 +4,11 @@ import MySQLdb
 from dateutil import parser
 import json
 
-api = NewsApiClient(api_key='e6702efb133e48418f78ea26f4620e20')
+api = NewsApiClient(api_key='')
 
 HOST = "localhost"
 USER = "root"
-PASSWD = "za786001"
+PASSWD = ""
 DATABASE = "usenews"
 
 
